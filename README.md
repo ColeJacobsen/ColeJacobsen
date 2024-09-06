@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Cole Jacobsen and I am a computer science student at St. Lawrence University!
+Currently on GitHub for some of my assignments 
